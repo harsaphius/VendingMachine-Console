@@ -1,4 +1,4 @@
-# Vending Machine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+# Vending Machine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
           
 Small Project in C++ for a Vending Machine
 
